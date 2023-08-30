@@ -23,12 +23,12 @@ $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflag
 ```
 
 ## Flowchart
-![The Maze Flow Chart](https://imgur.com/a/iJGB9eG)
+![The Maze Flow Chart](https://i.imgur.com/29LxA2X.png)
 
 ## Demo
 [![The Maze Demo](https://i.imgur.com/5Ss7s1S.png)]
 
-=================================
+
 BEHIND THE SCENE
 =================================
 
@@ -38,15 +38,15 @@ CHALLENGES
 The major challenge of the 1st week had been getting used to NodeJs and React. My approach was to reach out to some of my peers whom I trust were great at programming, and I also got access to other peers who did the same project was ideal.
 
 
-PROGRESS
+PROGRESS : 
 Most of the coding has been done on the project to try and meet the MVP, however, a -Werror flag error is still a big issue to clear. Hopefully, in the coming few days, the error will be dealt with. I would rate the progress as a 7 out of 10. The challenges are as mentioned above and hugely I have been on target in terms of completion goals. The general functionality of the app/challenge has not been met and that can be considered as the incomplete section.
 
 CHALLENGES
 
-TECHNICAL
+TECHNICAL :
 Installing npm and NodeJs was highly tasking as I had errors due to the fact that my NodeJs version would not support npm in my sandbox. I had to install this NodeJs app on my computer before configuring my Visual Studio Code to it. I overcame this issue by querying Google. After the installations and the codes, it was hard to push them to my Github Repo. I spent a couple of hours on the phone with Michael Oni who guided me patiently all through the process. Unfortunately, throughout the whole episode, I forgot to take snapshots. I experienced commit errors, refs as well as gitignore problem files and at a point I doubted my code skills and was ready to give up but we pulled through!
 
-NON-TECHNICAL
+NON-TECHNICAL : 
 The first in this category would be my mental health next to electricity issues as well as my PC’s weak battery. It is the dawn of a new era in my country and we do have a fuel crisis as well as a prolonged lack of electricity. My mental health was in chaos as I couldn’t help but ponder on how long we would be in this situation as the cost of living skyrocketed as well, in just a few weeks! Whew! Sometimes during my sessions, I get headaches and eye pain but this will be remedied soon as I hope to incorporate Blu-ray glasses in my already medicated lenses.
 So that's it! I hope to give you an update once more when the project is up and running! Till then, See you!
 
